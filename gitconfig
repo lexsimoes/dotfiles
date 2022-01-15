@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lexsimoes@yahoo.com
+	name = Alexandre Simoes
